@@ -1,0 +1,20 @@
+.contact h1{
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+#about {
+    color: black;
+    background-color: yellow;
+}
+
+p {
+    background-color: rgb(255, 255, 255);
+}
+
+li:hover {
+    font-weight: 700;
+}
